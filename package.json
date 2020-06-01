@@ -1,0 +1,17 @@
+{
+  "name": "translate-xlf-file",
+  "version": "1.0.0",
+  "description": "genrate a xlf file for angular  internationalization using i18n ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "jsontoxml": "^1.0.1",
+    "nodemon": "^2.0.4",
+    "xml2json": "^0.12.0"
+  }
+}
