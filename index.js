@@ -1,78 +1,49 @@
 const translate = require("@vitalets/google-translate-api");
-const fs = require("fs");
 const parser = require("xml2json");
 const util = require("util");
+const fs = require("fs").promises;
 
-// Convert fs.readFile into Promise version of same
-const readFile = util.promisify(fs.readFile);
-async function createJsonFromXml(filePath) {
-  let json;
+const readFile = async (filePath) => {
   try {
-    await fs
-      .readFile(filePath, function(err, data) {
-        json = parser.toJson(data);
-        console.log("to json", JSON.parse(json));
-      })
-    console.log("to json", json);
-    json = JSON.parse(json);
-    return json;
-  } catch (e) {
-    throw new Error(e);
+    const data = await fs.readFile(filePath, "utf8");
+    const resJson = JSON.parse(parser.toJson(data));
+    console.log("parsed");
+    console.log(resJson);
+    return resJson;
+    // console.log(data);
+    // return data;
+  } catch (error) {
+    console.log(error);
   }
-}
-function translateJsonI18(json, inputLang, outputLang) {
+};
+async function translateJsonI18(json, inputLang, outputLang) {
   const inLang = inputLang || json.xliff.file["source-language"];
   const transUnit = json.xliff.file.body["trans-unit"];
-  const translatedTransUnit = transUnit.map(item => {
-    item.target = translateTarget(item.source, inputLang, outputLang);
-    return item;
-  });
-  json.xliff.file.body["trans-unit"] = translatedTransUnit;
+  const translatedArray = [];
+  // for (let item in transUnit) {
+  item = transUnit[0];
+  item.target = await translateTarget(item.source, inputLang, outputLang);
+  console.log(`translating ${item.source}      to   ${item.target}`);
+  translatedArray.push(item);
+  // }
+  json.xliff.file.body["trans-unit"] = translatedArray;
   return json;
 }
-function translateTarget(word, inputLang, outputLang) {
-  let translatedWord = "";
-  translate(word, { from: inputLang, to: outputLang })
-    .then(res => {
-      translatedWord = res.text;
-    })
-    .catch(err => {
-      console.error(err);
-      throw new Error("error with translating");
-    });
-  return translatedWord;
+async function translateTarget(word, inputLang, outputLang) {
+  try {
+    return await translate(word, { from: inputLang, to: outputLang });
+  } catch (err) {
+    throw new Error("error with translating");
+  }
 }
 
 async function main() {
-  const filePath =
-    "/home/kebsi/Documents/koshine/koshin/src/locale/messages.xlf";
-  let json = {};
-  try {
-    await fs.readFile(filePath, function(err, data) {
-      if (err) {
-        throw new Error("cannot read file" + err);
-      }
-      json = JSON.parse(parser.toJson(data));
-      const toTranslate = json.xliff.file.body["trans-unit"];
-      return json      
-    })
-    .then(async (json)=>{
-    const toTranslate = json.xliff.file.body["trans-unit"];
-    for (let (index,item) in toTranslate){
-    await translate(item.source, { from: inputLang, to: outputLang })
-    .then(res => {
-      toTranslate[index].target = res.text;
-    })
-    }
-    console.log('after tranlating',toTranslate);
-    json.xliff.file.body["trans-unit"]=toTranslate;
-
-    });
-
-    console.log("done!");
-  } catch (e) {
-    throw new Error(e);
-  }
+  const filePath = "./locale/messages.xlf";
+  const json = await readFile(filePath);
+  // json = createJsonFromXml(filePath);
+  const translated = await translateJsonI18(json, "en", "fr");
+  console.log(translated);
+  console.log("we are waiting for the json");
 }
 console.log("..start to execute code");
 main();

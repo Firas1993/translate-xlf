@@ -18,7 +18,7 @@
       toTranslate[index].target = res.text;
     })
     }
-    console.log('after tranlating',toTranslate);
+    console.log('after translating',toTranslate);
     json.xliff.file.body["trans-unit"]=toTranslate;
 
     });
