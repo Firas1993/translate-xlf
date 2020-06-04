@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="pt-PT">
+    <body>
+      <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
+        <source>Logout</source>
+        <target xml:lang="pt-PT">Terminar sessão</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target xml:lang="pt-PT">Início</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f65253954b66e929a8b4d5ecaf61f9129f8cec64" datatype="html">
+        <source>Dashboard</source>
+        <target xml:lang="pt-PT">Painel de instrumentos</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f6413089f93ac0756a20f8e74ef1ab78c81ef13c" datatype="html">
+        <source>Analysis</source>
+        <target xml:lang="pt-PT">Análise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5ad4eecbd0fe09c34678fefce317a052af39dc96" datatype="html">
+        <source>Data</source>
+        <target xml:lang="pt-PT">Data</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="63819960e36026f23a0c5af50d07df3389e836ef" datatype="html">
+        <source>Control</source>
+        <target xml:lang="pt-PT">Verificar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3e24569eca61d598c8b01defbbbb1fa8bd5222bc" datatype="html">
+        <source>Devices</source>
+        <target xml:lang="pt-PT">Dispositivos</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/admin.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="408cb6073e60c5d966296a3207fc596adca75e01" datatype="html">
+        <source>Admin</source>
+        <target xml:lang="pt-PT">Admin</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1442d0248a7ac6492c7d5a8685d9a7a5638881a7" datatype="html">
+        <source>Create Your Home Dashboard!</source>
+        <target xml:lang="pt-PT">Crie o seu painel inicial!</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/main/main.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4d13a9cd5ed3dcee0eab22cb25198d43886942be" datatype="html">
+        <source>Users</source>
+        <target xml:lang="pt-PT">Utilizadores</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/admin.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4fe84c1d0eef5726c017f64c691145db7a61f879" datatype="html">
+        <source>Accounts</source>
+        <target xml:lang="pt-PT">Contas</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/admin.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="42763f2568ff4437389fcbc1a2d6e8ab4095fb98" datatype="html">
+        <source>UserId</source>
+        <target xml:lang="pt-PT">Id do Usuário</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/user-add-dialog/user-add-dialog.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/account-dialog/account-dialog.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="09405b15a62fa27aba08180fbf9f7fd16b4a821e" datatype="html">
+        <source>Use only 'a-Z 0-9 - .'</source>
+        <target xml:lang="pt-PT">Use apenas &amp;#39;aZ 0-9 -.&amp;#39;</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/user-add-dialog/user-add-dialog.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="108d7d104f08920d4c40f2fce7cc1795d0d38f2b" datatype="html">
+        <source>UserName</source>
+        <target xml:lang="pt-PT">Nome de usuário</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/user-add-dialog/user-add-dialog.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a43f25a9ac40e8e2441ff0be7a36b8e5d15534df" datatype="html">
+        <source>Country</source>
+        <target xml:lang="pt-PT">País</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/user-add-dialog/user-add-dialog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cfc2f436ec2beffb042e7511a73c89c372e86a6c" datatype="html">
+        <source>Register</source>
+        <target xml:lang="pt-PT">Registe-se</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/user-add-dialog/user-add-dialog.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="047f50bc5b5d17b5bec0196355953e1a5c590ddb" datatype="html">
+        <source>Update</source>
+        <target xml:lang="pt-PT">Atualizar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/user-add-dialog/user-add-dialog.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="826b25211922a1b46436589233cb6f1a163d89b7" datatype="html">
+        <source>Delete</source>
+        <target xml:lang="pt-PT">Apagar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/user-add-dialog/user-add-dialog.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d7b35c384aecd25a516200d6921836374613dfe7" datatype="html">
+        <source>Cancel</source>
+        <target xml:lang="pt-PT">Cancelar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/user-add-dialog/user-add-dialog.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/chart-edit-dialog/chart-edit-dialog.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f33f14958f5494de575c492db2a381ba71656e6c" datatype="html">
+        <source>Mail</source>
+        <target xml:lang="pt-PT">E-mail</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/account-dialog/account-dialog.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c32ef07f8803a223a83ed17024b38e8d82292407" datatype="html">
+        <source>Password</source>
+        <target xml:lang="pt-PT">Senha</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/account-dialog/account-dialog.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cff1428d10d59d14e45edec3c735a27b5482db59" datatype="html">
+        <source>Name</source>
+        <target xml:lang="pt-PT">Nome</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/account-dialog/account-dialog.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="59becb003553a2ba309a76e0283ff658f77f8d9c" datatype="html">
+        <source>User List</source>
+        <target xml:lang="pt-PT">Lista de Usuários</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f8c7e16da78e5daf06335e60dd27f03ec30530f4" datatype="html">
+        <source>Add user</source>
+        <target xml:lang="pt-PT">Adicionar usuário</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="632e8b20c98e8eec4059a605a4b011bb476137af" datatype="html">
+        <source>Edit user</source>
+        <target xml:lang="pt-PT">Editar Usuário</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="95b95a9c79e4fd9ed41f6855e37b3b06af25bcab" datatype="html">
+        <source>Delete user</source>
+        <target xml:lang="pt-PT">Excluir usuário</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/user-admin/user-admin.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dd943e323def862ca370ea61c7d9f3ed0db2772d" datatype="html">
+        <source>DeviceId</source>
+        <target xml:lang="pt-PT">ID de dispositivo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="019a4caebf91202e3c6b4392d43960bcb0656184" datatype="html">
+        <source>Use only 'a-Z 0-9 _'</source>
+        <target xml:lang="pt-PT">Use apenas &amp;#39;aZ 0-9 _&amp;#39;</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c672f20ece8f2732e13f6e1309cc76856f0dde68" datatype="html">
+        <source>UserId is required</source>
+        <target xml:lang="pt-PT">UserId é obrigatório</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="321e4419a943044e674beb55b8039f42a9761ca5" datatype="html">
+        <source>Info</source>
+        <target xml:lang="pt-PT">Info</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4f2df4e849f26c8cd915e66fe9add3ad3988090e" datatype="html">
+        <source>PublicKey</source>
+        <target xml:lang="pt-PT">PublicKey</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6e1aaadb0ebc3cd8318fe4742052800032a0257d" datatype="html">
+        <source>Public-key is required</source>
+        <target xml:lang="pt-PT">Chave pública é necessária</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="935c836484d08e6de5e221e6d306463ae0562351" datatype="html">
+        <source>Please input DeviceId to confirm.</source>
+        <target xml:lang="pt-PT">Insira DeviceId para confirmar.</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7f731285097e72f3cdcc618860503360c64783a4" datatype="html">
+        <source>Register</source>
+        <target xml:lang="pt-PT">Registe-se</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b7912d2e9dd241af08e9f99112d1ceba3c2ca90b" datatype="html">
+        <source>Update</source>
+        <target xml:lang="pt-PT">Atualizar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a6439130d570534db1643f243846928f4505ff33" datatype="html">
+        <source>Delete</source>
+        <target xml:lang="pt-PT">Apagar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/device-dialog/device-dialog.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e3d93aa1810ad561bb3bd9a520557f8abc85d77a" datatype="html">
+        <source>Device List</source>
+        <target xml:lang="pt-PT">Lista de dispositivos</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bb6c2d4431fe36f4b32ab207ca12cf25f6b910ed" datatype="html">
+        <source>Add device</source>
+        <target xml:lang="pt-PT">Adicionar dispositivo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a32c1abf02cabf7b97ae76d459edca4f529815c6" datatype="html">
+        <source>SensorId</source>
+        <target xml:lang="pt-PT">SensorId</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f82a25a6983b105ac528cae86916c03765796a4c" datatype="html">
+        <source>Edit device</source>
+        <target xml:lang="pt-PT">Editar dispositivo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d6ba2750ff04cb9805ff34c7df49113eb56514be" datatype="html">
+        <source>Delete device</source>
+        <target xml:lang="pt-PT">Apagar dispositivo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/device-admin/device-admin.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="df5b6a08865be199289473d90cec7a18fd8a4f65" datatype="html">
+        <source>Account List</source>
+        <target xml:lang="pt-PT">Lista de Contas</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4eb2164d8ef5d328ef6bc1e66da011218bac968f" datatype="html">
+        <source>Add account</source>
+        <target xml:lang="pt-PT">Adicionar conta</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e08a77594f3d89311cdf6da5090044270909c194" datatype="html">
+        <source>User</source>
+        <target xml:lang="pt-PT">Utilizador</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0c4d11d1d265391c6201bfa1a8e10fd81773fde0" datatype="html">
+        <source>UA</source>
+        <target xml:lang="pt-PT">UA</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d7846026cec7801ef0d8e593bf8296cd488ec9a5" datatype="html">
+        <source>SA</source>
+        <target xml:lang="pt-PT">SA</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a7aa56ad51f29010cb24a08a860598b20945581d" datatype="html">
+        <source>Edit account</source>
+        <target xml:lang="pt-PT">Editar conta</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="09c9928ed58c2f9198026e59b891143f34e254f8" datatype="html">
+        <source>Delete account</source>
+        <target xml:lang="pt-PT">reyutjhf</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/admin/account-admin/account-admin.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6197e4963cdad6276ab24a1e73a08737000ded7e" datatype="html">
+        <source>Analysis List</source>
+        <target xml:lang="pt-PT">Análise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c60afd246a73e99804a14d38685243fb5fa4b9a1" datatype="html">
+        <source>New analysis</source>
+        <target xml:lang="pt-PT">Análise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eec715de352a6b114713b30b640d319fa78207a0" datatype="html">
+        <source>Description</source>
+        <target xml:lang="pt-PT">Descrição</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8dad9f60ff582b632a864f22c7466327793c3f09" datatype="html">
+        <source>Last update</source>
+        <target xml:lang="pt-PT">Última Atualização</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2d2379a9035a9295e4f90bbb39fb8b5c066aa2a3" datatype="html">
+        <source>Delet analysis.</source>
+        <target xml:lang="pt-PT">Excluir análise.</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis/analysis.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ec9584e69a39da22dc9fadf09c5d38def6d1b350" datatype="html">
+        <source>Back to list</source>
+        <target xml:lang="pt-PT">Voltar à lista</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c80c3db747c1a42a1ce1fd42fb7a01ed8c7d85b0" datatype="html">
+        <source>Print analysis</source>
+        <target xml:lang="pt-PT">Imprimir análise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2671e2828be8f91ab43a7c699ccec7ed9ec873bb" datatype="html">
+        <source>Edit analysis</source>
+        <target xml:lang="pt-PT">Editar análise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d415c8a36e6f0bf678ccb3ea7adf7969bfcb6604" datatype="html">
+        <source>Delete analysis</source>
+        <target xml:lang="pt-PT">Eliminar análise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6cb605aa1880ea1aa74587deeb11c2c9f60f4d9b" datatype="html">
+        <source>Save analysis</source>
+        <target xml:lang="pt-PT">Guardar análise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ef32b0fb71316cb9dfeee1c2c631b95ae3f9fdd6" datatype="html">
+        <source>Refresh analysis</source>
+        <target xml:lang="pt-PT">Atualizar análise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a9000024cf38267766fef35ad325d42e04e933b1" datatype="html">
+        <source>Chart Configuration</source>
+        <target xml:lang="pt-PT">Configuração do Gráfico</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d5e0dbc9fd4651759df915cdc6ba26fe3f17475f" datatype="html">
+        <source>From</source>
+        <target xml:lang="pt-PT">De</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8b9df6190a3ab94b67164f0fb2dc288d08bfe08e" datatype="html">
+        <source>Live</source>
+        <target xml:lang="pt-PT">Em direto</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b0cbe2075e351e31757d7a621b67ae80152ddd0a" datatype="html">
+        <source>span</source>
+        <target xml:lang="pt-PT">span</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c53dfdadddc7b273928981315a96526724c69b66" datatype="html">
+        <source>Feed</source>
+        <target xml:lang="pt-PT">Feed</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f7d080d31b66e416ddeb494de3ed9a0902580987" datatype="html">
+        <source>Offset</source>
+        <target xml:lang="pt-PT">Deslocamento</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5e70abaff7b8e8a6401af133f253a0c28db30300" datatype="html">
+        <source>Axis</source>
+        <target xml:lang="pt-PT">Eixo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5c54befce78d70e20c215f10a00e617245f53bc9" datatype="html">
+        <source>Note</source>
+        <target xml:lang="pt-PT">Nota</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-detail/analysis-detail.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/analysis-print/analysis-print.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2a68422f4acf618ef1ea63505e1a6ab51d628c91" datatype="html">
+        <source>1hour</source>
+        <target xml:lang="pt-PT">1h hora</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="25394ba40b630d09bba7e2e245700cc8298e375e" datatype="html">
+        <source>2hour</source>
+        <target xml:lang="pt-PT">2 horas</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="698fe1bccf192f78e6bc5cd8540e80c37a7d3406" datatype="html">
+        <source>4hour</source>
+        <target xml:lang="pt-PT">4 horas</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8975ded1b5d0939ca1aee3e6b52226075d5187c0" datatype="html">
+        <source>8hour</source>
+        <target xml:lang="pt-PT">8 horas</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="96e7c0eb914d0ee9253da554e23b1837208bb448" datatype="html">
+        <source>12hour</source>
+        <target xml:lang="pt-PT">12 horas</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c213ddee088efd4a51e1bf34b8eb0fdf823a2613" datatype="html">
+        <source>1day</source>
+        <target xml:lang="pt-PT">1dia</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="321beb6ae58ecaaa226e4908b2a96493606b37f8" datatype="html">
+        <source>2day</source>
+        <target xml:lang="pt-PT">2 dias</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="df7971cc5d564fa111bbcc70f94d823937cd9f88" datatype="html">
+        <source>4day</source>
+        <target xml:lang="pt-PT">4 dias</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="12029f966c2ada01c55646ec4e824687d8aeff56" datatype="html">
+        <source>7day</source>
+        <target xml:lang="pt-PT">7dias</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b17b4b2fe57914d8ccaa1fe7e860cfe9f1cc0527" datatype="html">
+        <source>14day</source>
+        <target xml:lang="pt-PT">14 dias</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6136c00f27d4dd0e87b17205c7898bcaa952d266" datatype="html">
+        <source>21day</source>
+        <target xml:lang="pt-PT">21dias</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">165</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92e5bb37a84accd5bb0b5a4f569bb0437d8c9c1f" datatype="html">
+        <source>1month</source>
+        <target xml:lang="pt-PT">1 mês</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/compare-line-chart/compare-line-chart.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eef20639120e85b8b4d9a6758adc79a97171508e" datatype="html">
+        <source>Dashboard List</source>
+        <target xml:lang="pt-PT">Painel de Controle</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="01a1fa4b746184f7a89f702101a9c3048be8430d" datatype="html">
+        <source>New dashboard</source>
+        <target xml:lang="pt-PT">Novo Painel de Controle</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1dda780b1cef4632c55b7a0129aeb643ade47977" datatype="html">
+        <source>Delet dashboard.</source>
+        <target xml:lang="pt-PT">Excluir painel.</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord/dashbord.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c84df9553019022cc521320e3afaed42f23feca1" datatype="html">
+        <source>Save</source>
+        <target xml:lang="pt-PT">Gravar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dialog/chart-edit-dialog/chart-edit-dialog.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dced2fdc3f480c5b9fe794b184cff3b3c6ac8213" datatype="html">
+        <source>Edit dashboard</source>
+        <target xml:lang="pt-PT">Editar dashboard</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e122fab97f9a78a308a8478fc0d5ade2c45c0336" datatype="html">
+        <source>Add new line chart</source>
+        <target xml:lang="pt-PT">Adicionar novo gráfico de linhas</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9c111634af025683e660d61837776944539f477a" datatype="html">
+        <source>Add new gauge chart</source>
+        <target xml:lang="pt-PT">Adicionar novo gráfico de medidor</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e4c947d8db29336d1d96047587534d61b85f7cc8" datatype="html">
+        <source>Save dashboard</source>
+        <target xml:lang="pt-PT">Painel de Controle</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22f852f2eed55a7d53494aa44674d74d836acd3a" datatype="html">
+        <source>Cancel edit mode</source>
+        <target xml:lang="pt-PT">Cancelar edição</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d89775f07be0e5d19d6649d1b9c53659f5ec6fd7" datatype="html">
+        <source>Edit line chart</source>
+        <target xml:lang="pt-PT">Gráfico de linhas</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7585c0efe8231791594c3d7d2714aabaedff94ac" datatype="html">
+        <source>Edit gauge chart</source>
+        <target xml:lang="pt-PT">Editar gráfico de medidores</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22eb503790872a747d7e2731edea34bbfb742d14" datatype="html">
+        <source>Delete chart</source>
+        <target xml:lang="pt-PT">Excluir Gráfico</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/dashbord-detail/dashbord-detail.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5133d14d529d7ac8fdd844024edbda1aed5d5f0d" datatype="html">
+        <source>Call data</source>
+        <target xml:lang="pt-PT">Dados do pedido de reparação ao abrigo de garantia</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c0dff105ab650ab84a84e761ad9e3c4c2abe2c6d" datatype="html">
+        <source>Download data</source>
+        <target xml:lang="pt-PT">Transferir dados</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="702609698df1cb5dbd3c0db90ea0a89557cbde1e" datatype="html">
+        <source>Show deleted sensor</source>
+        <target xml:lang="pt-PT">Mostrar sensor excluído</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9a0f3ace6620b1275c3ae47228a46ac3c14ac4f9" datatype="html">
+        <source>StratDate</source>
+        <target xml:lang="pt-PT">StratDate</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="784ffc512bec10884d40400f108e2987e2e5f6e0" datatype="html">
+        <source>Hour</source>
+        <target xml:lang="pt-PT">Hora</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4c449cf9dadc98cec86625f75b4109ce2a9b43ce" datatype="html">
+        <source>Minute</source>
+        <target xml:lang="pt-PT">Minuto</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f6bbd50fdb03237c630dbbf141ef4b5e61746220" datatype="html">
+        <source>Second</source>
+        <target xml:lang="pt-PT">Segundo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c938d857eeb733cc01ce907d6be8e52ed8a4b23" datatype="html">
+        <source>EndDate</source>
+        <target xml:lang="pt-PT">Data Final</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="034d93ff02cca0e6e862a0df4adeaaf67109d88b" datatype="html">
+        <source>time</source>
+        <target xml:lang="pt-PT">período</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/data/data.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aaa919dbd3ca75de0eab9e95d640457236e310ce" datatype="html">
+        <source>Line Chart Configuration</source>
+        <target xml:lang="pt-PT">Configuração do Gráfico</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7f1fab347fc3f64f7fd812062199329eb28b298a" datatype="html">
+        <source>Span</source>
+        <target xml:lang="pt-PT">Vão</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7579e16676411be71336c3ba8635ec8cd8f02573" datatype="html">
+        <source>Live</source>
+        <target xml:lang="pt-PT">Em direto</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dd47fde3dc3114b80ce548317ef03f843e88d3b9" datatype="html">
+        <source>Add axis</source>
+        <target xml:lang="pt-PT">Adicionar eixo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ff7cee38a2259526c519f878e71b964f41db4348" datatype="html">
+        <source>Default</source>
+        <target xml:lang="pt-PT">Predefinida</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c3ced4d162a0a55ee233a187ce7208ba5e922418" datatype="html">
+        <source>Max</source>
+        <target xml:lang="pt-PT">Máx.</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9abcd7c82643d60c22733470463f74e4a54bc069" datatype="html">
+        <source>Min</source>
+        <target xml:lang="pt-PT">Minimo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="041620337eaebda87971d345d05697639dfe78e4" datatype="html">
+        <source>Step</source>
+        <target xml:lang="pt-PT">Etapa</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a05babb6429b3dd8f67f306f25d08d51ff9cb7af" datatype="html">
+        <source>Delete axis</source>
+        <target xml:lang="pt-PT">Apagar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f924d36a9018fa03eb4de72531d8370b80ee7243" datatype="html">
+        <source>Add data</source>
+        <target xml:lang="pt-PT">Adicionar Dados</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8fa4d523f7b91df4390120b85ed0406138273e1a" datatype="html">
+        <source>Color</source>
+        <target xml:lang="pt-PT">Cor do texto do corpo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a2f14a73f7a6e94479f67423cc51102da8d6f524" datatype="html">
+        <source>None</source>
+        <target xml:lang="pt-PT">Nenhuma</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="942b4ff1ed846cef8e8c6439f3e3582a678822da" datatype="html">
+        <source>Y-Axis</source>
+        <target xml:lang="pt-PT">Eixo-Y</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5affdac79e004f8a15bd045552d6ab80128773c0" datatype="html">
+        <source>Delete data</source>
+        <target xml:lang="pt-PT">Excluir Dados</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/line-chart-config/line-chart-config.component.html</context>
+          <context context-type="linenumber">180</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92864c612c4f237b3521f081abd76f0920bcac98" datatype="html">
+        <source>TimeZone</source>
+        <target xml:lang="pt-PT">Fuso horário</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c3aec87f90d32fe9c9222b0a1c9d31307cba58c" datatype="html">
+        <source>Morning Time</source>
+        <target xml:lang="pt-PT">manhã</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1bcffd022e407a4527e95740704231f94f3e2447" datatype="html">
+        <source>On time</source>
+        <target xml:lang="pt-PT">Não defasado</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cd25ef11e2d8843297caf4202937023dc02d0ba8" datatype="html">
+        <source>minutes</source>
+        <target xml:lang="pt-PT">minutos</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0a300c6b7f29f97ef36d5b9edc0d9efed7c4bc6e" datatype="html">
+        <source>Off time</source>
+        <target xml:lang="pt-PT">Hora Desligada</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="312a9b5f29aede86af13c5d7a420441cf8e36422" datatype="html">
+        <source>Day Time</source>
+        <target xml:lang="pt-PT">DIA / HORA</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9085ad49304a7e700feb8e552a20b7b093f7122e" datatype="html">
+        <source>Night Time</source>
+        <target xml:lang="pt-PT">Período noturno</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="873b72903b1858a9cd6c8967521030b4d7d1435b" datatype="html">
+        <source>State</source>
+        <target xml:lang="pt-PT">U.F.</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="36358c545eb4deb2acfae47f97ef80ec24fba962" datatype="html">
+        <source>refresh</source>
+        <target xml:lang="pt-PT">atualizar</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1e7180823484a8b886c921518255e24324c3d47b" datatype="html">
+        <source>current</source>
+        <target xml:lang="pt-PT">atual</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a02ea1d4e7424ca989929da5e598f379940fdbf2" datatype="html">
+        <source>Duration</source>
+        <target xml:lang="pt-PT">Duração</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="612af120c77b52601251e6833cb9e3cfb55fe0fe" datatype="html">
+        <source>next</source>
+        <target xml:lang="pt-PT">próximo</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/components/control/control.component.html</context>
+          <context context-type="linenumber">176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d109cb6a40667a8b2945bb14ae034e4f7b0dcf95" datatype="html">
+        <source>Gauge Chart Configuration</source>
+        <target xml:lang="pt-PT">Configuração do gráfico de medidores</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4cf0728fcf2b0af16de94c2f57dafddcc0ff1a59" datatype="html">
+        <source>Unit</source>
+        <target xml:lang="pt-PT">Unidade</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/templates/gauge-chart-config/gauge-chart-config.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
